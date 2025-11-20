@@ -20,3 +20,8 @@ body{
       background-color: #eaeced;
       
 }
+
+
+body.auth-body-bg {
+  background-color: white !important;
+}
